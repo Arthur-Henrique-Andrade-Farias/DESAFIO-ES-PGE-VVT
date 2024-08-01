@@ -1,8 +1,10 @@
-# IDÉIA do Sistema de Execução Fiscal - VV&T
+# IDEIA do Sistema de Execução Fiscal - VV&T
 
 ## Descrição
 
 Este repositório foi criado para desenvolver e documentar o processo de Verificação, Validação e Teste (VV&T) do Sistema de Execução Fiscal. O objetivo é cumprir com o desafio proposto, seguindo as orientações do teste fornecido. O foco principal é garantir que o sistema identifique corretamente os processos fiscais com prescrição intercorrente e que todas as funcionalidades essenciais sejam testadas de maneira rigorosa e detalhada.
+
+Infelizmente fiquei focado mais na documentação e análise dos documentos, mas tenho certos protótipos de diversos testes, que posso enviar caso solicitado, enfim, siga com a ideia que tinha para secção dos arquivos : 
 
 ## Estrutura do Repositório
 
